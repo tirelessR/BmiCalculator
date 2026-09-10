@@ -1,0 +1,13 @@
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/BmiLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/BmiLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CopyComplete
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleHelper.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleHelper.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ValidationLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ValidationLibrary.pdb

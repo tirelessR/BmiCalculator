@@ -1,0 +1,9 @@
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/obj/Debug/BmiLibrary.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/obj/Debug/BmiLibrary.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/bin/Debug/BmiLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/bin/Debug/BmiLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/obj/Debug/BmiLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/obj/Debug/BmiLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/bin/Debug/ValidationLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/bin/Debug/ValidationLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiLibrary/obj/Debug/BmiLibrary.csproj.CopyComplete

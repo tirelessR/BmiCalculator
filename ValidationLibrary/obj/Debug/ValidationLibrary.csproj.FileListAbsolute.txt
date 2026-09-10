@@ -1,0 +1,6 @@
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/bin/Debug/ValidationLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/bin/Debug/ValidationLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/obj/Debug/ValidationLibrary.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/obj/Debug/ValidationLibrary.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/obj/Debug/ValidationLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ValidationLibrary/obj/Debug/ValidationLibrary.pdb

@@ -1,0 +1,6 @@
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/bin/Debug/ConsoleHelper.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/bin/Debug/ConsoleHelper.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/obj/Debug/ConsoleHelper.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/obj/Debug/ConsoleHelper.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/obj/Debug/ConsoleHelper.dll
+/home/ivan/RiderProjects/ConsoleApplication1/ConsoleHelper/obj/Debug/ConsoleHelper.pdb
