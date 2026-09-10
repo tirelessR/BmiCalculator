@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace BmiLibrary
 {
@@ -22,15 +23,12 @@ namespace BmiLibrary
         };
         public static string GetCommentAboutBmi(double bmi)
         {
-            if (bmi < 18.5)
+            foreach (var pair in BmiDescriptions)
             {
-                return "Мало";
+                if (bmi < pair.Key)
+                    return pair.Value;
             }
-            else if (bmi <= 25)
-            {
-                return "Норм";
-            }
-            else return "Ты вообще жирный";
+            return BmiDescriptions[Double.MaxValue];
         }
         
         /// <summary>
