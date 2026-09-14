@@ -11,7 +11,7 @@ namespace ConsoleApplication1
             double weight;
             double height;
             
-            weight = ConsoleHelper.ConsoleHelper.ReadDoubleValue("Введите свой вес: "); 
+            weight = ConsoleHelper.ConsoleHelper.ReadDoubleValue("Введите свой вес(кг): "); 
             height = ConsoleHelper.ConsoleHelper.ReadDoubleValue("Введите свой рост(м): ");
             
             var bmi = BmiLibrary.BmiCalculator.getBmi(weight, height);

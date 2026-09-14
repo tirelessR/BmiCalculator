@@ -19,7 +19,7 @@ namespace BmiLibrary
             { 30, "Избыточная масса тела(предожирение)" },
             { 35, "Ожирение 1-й степени" },
             { 40, "Ожирение 2-й степени" },
-            { Double.MaxValue, "Король жирных" }
+            { Double.MaxValue, "Ожирение 3-й степени" }
         };
         public static string GetCommentAboutBmi(double bmi)
         {
