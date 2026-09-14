@@ -15,7 +15,7 @@ namespace ConsoleApplication1
             height = ConsoleHelper.ConsoleHelper.ReadDoubleValue("Введите свой рост(м): ");
             
             var bmi = BmiLibrary.BmiCalculator.getBmi(weight, height);
-            Console.WriteLine("BMI: " + bmi + "\n" + BmiCalculator.GetCommentAboutBmi(bmi));
+            Console.WriteLine($"Ваш ИМТ: {bmi:F1} \n {BmiCalculator.GetCommentAboutBmi(bmi)}");
             
         }
     }
