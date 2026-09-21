@@ -11,6 +11,7 @@ namespace BmiTestProject
 
         [TestCase(80, 1.7)]
         [TestCase(60, 1.8)]
+        [TestCase(700, 3)]
         public void HappyPath(double weight, double height)
         {
             double calculated = Math.Round(BmiCalculator.GetBmi(weight, height), 2);
@@ -19,5 +20,12 @@ namespace BmiTestProject
             Assert.That(calculated, Is.EqualTo(expected).Within(0.01));
         }
 
+        [TestCase(80, -1.7)]
+        [TestCase(-50, 1.5)]
+        [TestCase(-75, -1.8)]
+        public void TestForNegativeValues(double weight, double height)
+        {
+            Assert.Throws<ArgumentException>(() =>  BmiCalculator.GetBmi(weight, height));
+        }
     }
 }
