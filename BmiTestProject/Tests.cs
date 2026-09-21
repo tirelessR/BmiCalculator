@@ -36,5 +36,13 @@ namespace BmiTestProject
             Assert.Throws<ArgumentException>(() =>  BmiCalculator.GetBmi(weight, height));
         }
         
+        [TestCase(701, 1.8)]
+        [TestCase(15000, 1.67)]
+        [TestCase(double.MaxValue, 1.84)]
+        public void TestForWeightHigherThanMax(double weight, double height)
+        {
+            Assert.Throws<ArgumentException>(() =>  BmiCalculator.GetBmi(weight, height));
+        }
+
     }
 }
