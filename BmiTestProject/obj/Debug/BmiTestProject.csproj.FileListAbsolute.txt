@@ -1,0 +1,13 @@
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/BmiTestProject.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/BmiTestProject.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/nunit.framework.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/nunit.framework.xml
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/obj/Debug/BmiTestProject.csproj.AssemblyReference.cache
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/obj/Debug/BmiTestProject.csproj.CoreCompileInputs.cache
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/obj/Debug/BmiTestProject.csproj.CopyComplete
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/obj/Debug/BmiTestProject.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/obj/Debug/BmiTestProject.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/BmiLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/ValidationLibrary.dll
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/BmiLibrary.pdb
+/home/ivan/RiderProjects/ConsoleApplication1/BmiTestProject/bin/Debug/ValidationLibrary.pdb

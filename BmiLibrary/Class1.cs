@@ -1,15 +1,14 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace BmiLibrary
 {
     public static class BmiCalculator
     {
-        public static double minHeight = 0;
-        public static double minWeight = 0;
-        public static double maxHeight = 3;
-        public static double maxWeight = 700;
+        public static double MinHeight = 0;
+        public static double MinWeight = 0;
+        public static double MaxHeight = 3;
+        public static double MaxWeight = 700;
 
         public static Dictionary<double, string> BmiDescriptions = new Dictionary<double, string>()
         {
@@ -37,16 +36,16 @@ namespace BmiLibrary
         /// <param name="weight"></param>
         /// <param name="height"></param>
         /// <returns></returns>
-        public static double getBmi(double weight, double height)
+        public static double GetBmi(double weight, double height)
         {
             ValidationLibrary.ValidationHelper.CheckRangeValue(height,
-                minHeight,
-                maxHeight,
-                $"Неверный рост: ожидалось от {minHeight} до {maxHeight}");
+                MinHeight,
+                MaxHeight,
+                $"Неверный рост: ожидалось от {MinHeight} до {MaxHeight}");
             ValidationLibrary.ValidationHelper.CheckRangeValue(weight,
-                minWeight,
-                maxWeight,
-                $"Неверный вес: ожидалось от {minWeight} до {maxWeight}");
+                MinWeight,
+                MaxWeight,
+                $"Неверный вес: ожидалось от {MinWeight} до {MaxWeight}");
             return weight / Math.Pow(height, 2);
         }
         

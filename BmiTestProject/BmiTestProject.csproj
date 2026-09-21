@@ -46,6 +46,12 @@
         <Compile Include="Tests.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\BmiLibrary\BmiLibrary.csproj">
+        <Project>{fdb88975-76dc-4fb5-8d89-81c27d9d59b1}</Project>
+        <Name>BmiLibrary</Name>
+      </ProjectReference>
+    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
